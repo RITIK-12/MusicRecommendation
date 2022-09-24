@@ -13,6 +13,17 @@
 
 ### Methodology
 <img width="1490" alt="Screenshot 2022-09-24 at 2 21 59 PM" src="https://user-images.githubusercontent.com/54806252/192089400-c59d3ee2-c970-4c70-b5ef-b4c44c03e0d7.png">
+##### Kafka Streaming
+* Kafka acts as a producer. 
+* It streams a message as a batch or a single data item (we stream single data item per message).
+
+#### PySpark with Kafka Integration
+* Start the Kafka streamer (acting as producer) - pass the dataset path there.
+` spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.1.0 producer.py `
+* Kafka topic needs to be created before passing it to PySpark API: (using the command below)
+`./bin/kafka-topics.sh localhost:2181 -topic demo -create`
+
+
 
 ### Dataset Description
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/54806252/192089473-0929dc0d-f66f-4e80-b578-76f8b5ce3837.png">
@@ -30,3 +41,4 @@ Data Discription:
 
 Total columns: 20 (example: id, name, popularity, duration_ms, artists, id_artists, energy, release_date, danceability, etc.)
 Dataset Size:  508.84 MB
+
