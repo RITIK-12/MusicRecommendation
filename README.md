@@ -67,10 +67,15 @@ Dataset Size:  508.84 MB
 
 ### References
 1.PySpark: https://spark.apache.org/docs/latest/api/python/ 
+
 2. Kaggle Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks 
+
 3. Kafka Streaming: https://docs.confluent.io/platform/current/streams/index.html#:~:text=Kafka%20Streams%20is%20a%20client,Kafka's%20server%2Dside%20cluster%20technology. 
+
 4. Streamlit: https://streamlit.io/ 
+
 5. Spotipy API: https://github.com/plamere/spotipy 
+
 6. KMeans Classification for Recommendation: https://www.sciencedirect.com/science/article/pii/S1875389212006220 
 
 
