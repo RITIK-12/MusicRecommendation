@@ -13,3 +13,20 @@
 
 ### Methodology
 <img width="1490" alt="Screenshot 2022-09-24 at 2 21 59 PM" src="https://user-images.githubusercontent.com/54806252/192089400-c59d3ee2-c970-4c70-b5ef-b4c44c03e0d7.png">
+
+### Dataset Description
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/54806252/192089473-0929dc0d-f66f-4e80-b578-76f8b5ce3837.png">
+#### Spotify Dataset 1921 - 2020, 600+ tracks
+Metadata:
+
+Tracks covered: 1921-2020, 600k+ Tracks
+Artists covered: 1M+
+Source: Spotify Web API
+Creator: Yamac Eren Ay
+Dataset Type: CSV
+
+
+Data Discription:
+
+Total columns: 20 (example: id, name, popularity, duration_ms, artists, id_artists, energy, release_date, danceability, etc.)
+Dataset Size:  508.84 MB
