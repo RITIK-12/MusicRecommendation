@@ -66,7 +66,8 @@ Dataset Size:  508.84 MB
 <img width="805" alt="image" src="https://user-images.githubusercontent.com/54806252/192090103-0dae8a66-ddb4-433c-81d1-09327a085343.png">
 
 ### References
-1.PySpark: https://spark.apache.org/docs/latest/api/python/ 
+
+1. PySpark: https://spark.apache.org/docs/latest/api/python/ 
 
 2. Kaggle Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks 
 
