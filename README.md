@@ -60,3 +60,20 @@ Dataset Size:  508.84 MB
 * Integrated model with Spotify for a personalized recommendation.
 * Deployed the model to a web app for better user experience.
 
+### Results Demonstration
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/54806252/192090086-972c2f34-7e91-43cd-93eb-eb9c369eb70b.png">
+<img width="863" alt="image" src="https://user-images.githubusercontent.com/54806252/192090095-23d3942e-f6e4-4880-bb4d-9edee1e6c8cd.png">
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/54806252/192090103-0dae8a66-ddb4-433c-81d1-09327a085343.png">
+
+### References
+1.PySpark: https://spark.apache.org/docs/latest/api/python/ 
+2. Kaggle Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks 
+3. Kafka Streaming: https://docs.confluent.io/platform/current/streams/index.html#:~:text=Kafka%20Streams%20is%20a%20client,Kafka's%20server%2Dside%20cluster%20technology. 
+4. Streamlit: https://streamlit.io/ 
+5. Spotipy API: https://github.com/plamere/spotipy 
+6. KMeans Classification for Recommendation: https://www.sciencedirect.com/science/article/pii/S1875389212006220 
+
+
+
+
+
