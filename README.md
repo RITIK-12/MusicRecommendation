@@ -49,6 +49,7 @@ Total columns: 20 (example: id, name, popularity, duration_ms, artists, id_artis
 Dataset Size:  508.84 MB
 
 ### Recommendation System
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/54806252/192209093-cec3adbc-1ea9-4aee-a0d5-3d0d88153b04.png">
 
 * In this project we have used ALS Implicit Collaborative Filtering for recommendations.
 * Alternating Least Squares(ALS) is an iterative optimization process where for every iteration we try to arrive closer and closer to a factorized representation of our original data.
