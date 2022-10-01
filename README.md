@@ -31,7 +31,9 @@
 
 
 ### ✯ Dataset Description
-<img width="335" alt="image" src="https://user-images.githubusercontent.com/54806252/192089473-0929dc0d-f66f-4e80-b578-76f8b5ce3837.png">
+<p align="center">
+ <img width="335" alt="image" src="https://user-images.githubusercontent.com/54806252/192089473-0929dc0d-f66f-4e80-b578-76f8b5ce3837.png">
+</p>
 
 #### ✯ Spotify Dataset 1921 - 2020, 600+ tracks
 Metadata:
@@ -43,18 +45,18 @@ Creator: Yamac Eren Ay
 Dataset Type: CSV
 
 
-Data Discription:
+Data Description:
 
 Total columns: 20 (example: id, name, popularity, duration_ms, artists, id_artists, energy, release_date, danceability, etc.)
 Dataset Size:  508.84 MB
 
 ### ✯ Recommendation System
-<img width="297" alt="image" src="https://user-images.githubusercontent.com/54806252/192209093-cec3adbc-1ea9-4aee-a0d5-3d0d88153b04.png">
-
+<p align="center">
+ <img width="297" alt="image" src="https://user-images.githubusercontent.com/54806252/192209093-cec3adbc-1ea9-4aee-a0d5-3d0d88153b04.png">
+</p>
 * In this project we have used ALS Implicit Collaborative Filtering for recommendations.
 * Alternating Least Squares(ALS) is an iterative optimization process where for every iteration we try to arrive closer and closer to a factorized representation of our original data.
 * We used the best Model with the highest score for making recommendations.
-
 
  ### ✯ Novel Contributions
 * Created Real-world streaming simulation using Kafka.
